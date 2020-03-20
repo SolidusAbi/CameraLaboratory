@@ -26,5 +26,11 @@ In order to facilitate ... bla bla bla ... create and activate an anaconda envir
 
 ## Notebooks:
 ----------------------
+The implementation is located on notebooks that can be interacted using **Jupyter**.
+
+``` Bash
+    $ jupyter notebook [notebooks directory]
+```
+
 * **CameraCalibration**: This notebook contains the main implementation in order to obtain a calibration between both cameras...
 
