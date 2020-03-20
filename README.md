@@ -1,9 +1,11 @@
 # CameraCalibration
 
-[Description of the project]
+Project to test camera calibration, 3D reconstruction...
+
+----------------------
 
 ## Prerequisites:
-----------------------
+
 * **Python 3**
     * Python 3.6 is highly recommended
 * **[OpenCV](https://github.com/opencv/opencv)**
@@ -13,8 +15,9 @@
 * **PyYaml**
 * **Jupyter**
 
-## Anaconda environment
 ----------------------
+
+## Anaconda environment
 
 In order to facilitate ... bla bla bla ... create and activate an anaconda environment with the following instructions:
 
@@ -23,9 +26,10 @@ In order to facilitate ... bla bla bla ... create and activate an anaconda envir
 
     $ conda activate CameraLaboratory
 ```
+----------------------
 
 ## Notebooks:
-----------------------
+
 The implementation is located on notebooks that can be interacted using **Jupyter**.
 
 ``` Bash
@@ -33,4 +37,6 @@ The implementation is located on notebooks that can be interacted using **Jupyte
 ```
 
 * **CameraCalibration**: This notebook contains the main implementation in order to obtain a calibration between both cameras...
+
+----------------------
 
